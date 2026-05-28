@@ -1,9 +1,8 @@
 🔢 Numerical Methods Solver
 
 A modern Java & MATLAB application for solving Numerical Methods problems with interactive visualization and iterative analysis.
-✨ Overview
 
-Numerical Methods Solver is an educational desktop application designed to help students, educators, and engineers solve nonlinear equations using classical numerical methods.
+✨ Overview
 
 The project combines:
 
@@ -11,8 +10,6 @@ The project combines:
 📊 MATLAB App Designer for mathematical computation and visualization
 📈 Graph plotting for function analysis
 📋 Iteration tables for step-by-step computation tracking
-
-This application provides a simple and intuitive interface for understanding how numerical algorithms converge toward solutions.
 
 🚀 Features
 📌 Root-Finding Methods
