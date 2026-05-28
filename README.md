@@ -16,6 +16,7 @@ This application provides a simple and intuitive interface for understanding how
 
 🚀 Features
 📌 Root-Finding Methods
+
 🔹 Bisection Method
 
 🔹 False Position (Regula Falsi)
