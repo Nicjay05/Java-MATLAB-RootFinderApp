@@ -1,8 +1,5 @@
 🔢 Numerical Methods Solver
 
-
-
-
 A modern Java & MATLAB application for solving Numerical Methods problems with interactive visualization and iterative analysis.
 ✨ Overview
 
@@ -20,34 +17,21 @@ This application provides a simple and intuitive interface for understanding how
 🚀 Features
 📌 Root-Finding Methods
 🔹 Bisection Method
-Interval halving approach
-Guaranteed convergence for continuous functions
-Iterative approximation tracking
+
 🔹 False Position (Regula Falsi)
-Linear interpolation technique
-Faster convergence compared to Bisection in many cases
-Real-time iteration updates
+
 🔹 Newton-Raphson Method
-Tangent-based approximation method
-Rapid convergence near the root
-Derivative-supported calculations
+
 🔹 Secant Method
-Derivative-free approximation technique
-Efficient root estimation using two initial guesses
-Faster convergence than Bisection under suitable conditions
-📊 Visualization & Analysis
+
+🔹 Incremental Method
+
 📈 Graph Visualization
-Function plotting interface
-Root approximation display
-Interactive visual understanding of convergence behavior
+
 📋 Iteration Tables
-Displays iteration-by-iteration results
-Tracks:
-Current approximations
-Errors
-Function values
-Convergence progress
-🛠️ Technologies Used
+
+🛠️ Technologies Used:
+
 Technology	Purpose
 Java Swing	Desktop GUI Development
 MATLAB App Designer	Mathematical Modeling & Visualization
@@ -57,4 +41,3 @@ MATLAB	Numerical Computation
 👨‍💻 Author
 Nic Jay Avisado
 
-Computer Science / Software Development Enthusiast
